@@ -7,3 +7,5 @@
 
 ### 2.对接 Cloudflare Workers/Pages Functions Metrics 请求数统计 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/eb19c3d0-2219-4216-aa36-a91c8a82b57b" />
+
+### 3.95du茅台_Scripts
