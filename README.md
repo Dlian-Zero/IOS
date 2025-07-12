@@ -9,6 +9,6 @@
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/eb19c3d0-2219-4216-aa36-a91c8a82b57b" />
 
-### 3.95du茅台_Scripts
+### 3.95du茅台_Scripts（ 原作者：[95du/scripts](https://github.com/95du/scripts) )
 
 <img width="300" height="650" alt="95du茅台_Scripts" src="https://github.com/user-attachments/assets/4587b9a0-6551-438a-8bbe-b8c9ea83c2b4" />
