@@ -15,7 +15,6 @@
 <img width="300" height="650" alt="95du茅台_Scripts" src="https://github.com/user-attachments/assets/4587b9a0-6551-438a-8bbe-b8c9ea83c2b4" />
 
 ### 4.github-contributions（ 原作者：[ferraridavide/scriptable](https://github.com/ferraridavide/scriptable) )
-需Cache.js
 
 <img width="400" height="267" alt="image" src="https://github.com/user-attachments/assets/386b876c-5c7d-4c5b-b066-f04e2b9bf16c" />
 
