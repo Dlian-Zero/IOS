@@ -1,7 +1,6 @@
 # 苹果手机自用脚本
 ## Scriptable 小组件
 ### 1.lol赛程（ 原作者：[lisongqian/Scriptable](https://github.com/lisongqian/Scriptable) )
-下载lol.js文件到Scriptable中，桌面小组件默认显示最新赛程。 (修改了字体大小)
 
 <img width="267" height="400" alt="lol1" src="https://github.com/user-attachments/assets/d6d122f9-e553-4ae3-aa95-de23dd99161d" />
 <img width="267" height="400" alt="lol2" src="https://github.com/user-attachments/assets/90299ce4-75a4-4d32-99fd-b7704ab40a12" />
