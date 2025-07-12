@@ -13,3 +13,9 @@
 需DmYY.js
 
 <img width="300" height="650" alt="95du茅台_Scripts" src="https://github.com/user-attachments/assets/4587b9a0-6551-438a-8bbe-b8c9ea83c2b4" />
+
+### 4.github-contributions
+需Cache.js
+
+<img width="267" height="400" alt="95du茅台_Scripts" src="https://github.com/user-attachments/assets/2eed81e0-fc1c-4461-aa81-87db7ed99177" />
+
